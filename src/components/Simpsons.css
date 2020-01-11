@@ -1,0 +1,19 @@
+.SimpsonsCard {
+  display: flex;
+  padding: 1em;
+  width: 350px;
+  border: 1px solid #f8f8f8;
+  border-radius: 6px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  font-size: 1em;
+}
+
+.SimpsonsCard img {
+  display: flex;
+  max-height: 120px;
+  margin-right: 1.2rem;
+}
+
+.SimpsonsCard blockquote {
+  margin: 0 0 1rem 0;
+}
